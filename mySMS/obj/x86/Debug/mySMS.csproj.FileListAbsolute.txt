@@ -1,0 +1,8 @@
+D:\Documents_HWY\mySMS\mySMS\bin\x86\Debug\mySMS.exe.config
+D:\Documents_HWY\mySMS\mySMS\bin\x86\Debug\mySMS.exe
+D:\Documents_HWY\mySMS\mySMS\bin\x86\Debug\mySMS.pdb
+D:\Documents_HWY\mySMS\mySMS\obj\x86\Debug\mySMS.Form1.resources
+D:\Documents_HWY\mySMS\mySMS\obj\x86\Debug\mySMS.Properties.Resources.resources
+D:\Documents_HWY\mySMS\mySMS\obj\x86\Debug\mySMS.csproj.GenerateResource.Cache
+D:\Documents_HWY\mySMS\mySMS\obj\x86\Debug\mySMS.exe
+D:\Documents_HWY\mySMS\mySMS\obj\x86\Debug\mySMS.pdb

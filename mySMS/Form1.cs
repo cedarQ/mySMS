@@ -108,6 +108,11 @@ namespace mySMS
             }
             catch (Exception ex)
             {
+                DialogResult dr = MessageBox.Show("导入失败!请在电脑上安装AccessDatabaseEngine");
+                if(dr == DialogResult.OK)
+                {
+                    System.Diagnostics.Process.Start("http://download.microsoft.com/download/7/0/3/703ffbcb-dc0c-4e19-b0da-1463960fdcdb/AccessDatabaseEngine.exe");
+                }
                 return;
             }         
         }
