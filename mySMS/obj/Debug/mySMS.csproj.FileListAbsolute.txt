@@ -1,0 +1,9 @@
+D:\Document_HWY\C#学习\mySMS\mySMS\bin\Debug\mySMS.exe.config
+D:\Document_HWY\C#学习\mySMS\mySMS\bin\Debug\mySMS.exe
+D:\Document_HWY\C#学习\mySMS\mySMS\bin\Debug\mySMS.pdb
+D:\Document_HWY\C#学习\mySMS\mySMS\obj\Debug\mySMS.csprojResolveAssemblyReference.cache
+D:\Document_HWY\C#学习\mySMS\mySMS\obj\Debug\mySMS.Form1.resources
+D:\Document_HWY\C#学习\mySMS\mySMS\obj\Debug\mySMS.Properties.Resources.resources
+D:\Document_HWY\C#学习\mySMS\mySMS\obj\Debug\mySMS.csproj.GenerateResource.Cache
+D:\Document_HWY\C#学习\mySMS\mySMS\obj\Debug\mySMS.exe
+D:\Document_HWY\C#学习\mySMS\mySMS\obj\Debug\mySMS.pdb
